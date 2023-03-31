@@ -10,9 +10,7 @@ import {
 import { BsSearch, BsSun } from 'react-icons/bs';
 import { VscLayoutSidebarLeftOff } from 'react-icons/vsc';
 import { RxCounterClockwiseClock, RxSlash} from 'react-icons/rx';
-
 import Notification from './Notification'
-// import Navbar from "./Navbar";
 import Dashboard from "./Dashboard";
 import Footer from "./Footer";
 
